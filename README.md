@@ -1,4 +1,8 @@
-### Olá! Eu sou o Alex Candido 👋
+### Seja bem vindo ao meu GitHub👋
+🚀 Tenho 20 anos
+😊 Pronouns: ela/dela - she/her
+🎓 Formada em Produção Multimia pela Universidade Santa Cecília
+🏵️ Formada em Desenvolvimento Web Java Júnior atraves do bootcamp da Generation Brazil.
 
  <div>
   <a href="https://github.com/alex-candido">
