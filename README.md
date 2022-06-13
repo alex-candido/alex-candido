@@ -1,5 +1,5 @@
 <h2> Olá, meu nome é Alex Candido! </h2>
-<h4> Seja bem vindo ao meu GitHub </h4>
+<h4> Seja bem vindo ao meu GitHub(ESTÁ EM CONSTRUÇÃO) </h4>
 
  <div>
   <a href="https://github.com/alex-candido">
