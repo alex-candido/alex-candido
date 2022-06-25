@@ -1,5 +1,5 @@
-<h2> Olá, meu nome é Alex Candido! </h2>
-<h4> Seja bem vindo ao meu GitHub( ESTÁ EM CONSTRUÇÃO ) </h4>
+### Olá, meu nome é Alex Candido! 
+## Seja bem vindo ao meu GitHub( ESTÁ EM CONSTRUÇÃO ) 
 
  <div>
   <a href="https://github.com/alex-candido">
@@ -7,7 +7,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-candido&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-<h4> Tecnologias gerais e aprendizados: </h4>
+## Tecnologias gerais e aprendizados: 
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
