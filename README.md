@@ -1,5 +1,5 @@
 # Olá, meu nome é Alex Candido! 
-## Seja bem vindo ao meu GitHub( ESTÁ EM CONSTRUÇÃO ) 
+## Seja bem vindo ao meu GitHub 
 
  <div>
   <a href="https://github.com/alex-candido">
