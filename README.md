@@ -1,5 +1,5 @@
 <h2 align="center"> 👋 Olá, meu nome é Alex Candido! </h2> 
-<h3> Aqui está um desbravador de tecnologias e desenvolvedor Front-End que adora quebrar, construir e codificar. Ping-me para projetos e coisas de programação! </h3></br>
+<h3>Entusiasta de tecnologias e desenvolvedor Front-End que adora quebrar, construir e codificar. Ping-me para projetos e coisas de programação! </h3></br>
 
  <div align="center">
   <a href="https://github.com/alex-candido">
