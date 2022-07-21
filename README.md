@@ -7,7 +7,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-candido&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-<h2> Tecnologias gerais e aprendizados: </h2>
+<h2>🚀 Tecnologias gerais e aprendizados: </h2>
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
