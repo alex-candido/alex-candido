@@ -1,5 +1,6 @@
 <h2> 👋 Olá, meu nome é Alex Candido! </h2> 
-<h4>Entusiasta de tecnologias e desenvolvedor Front-End que adora construir e codificar. Ping-me para projetos e coisas de programação! </h4></br>
+<h4> Entusiasta de tecnologias e desenvolvedor Front-End, adoro design, construir e codificar. Atualmente, acadêmico em Engenharia de Telecomunicações, formação de Técnico em Redes de Computadores, já atuei nas áreas de Suporte/Manutenção de computadores e em Projetos de Telecomunicações.
+ </h4></br>
 
  <div>
   <a href="https://github.com/alex-candido">
@@ -8,6 +9,7 @@
 </div>
 
 <h2>🚀 Tecnologias gerais e aprendizados: </h2>
+<h4> No momento, tenho focado meus estudos principalmente em ReactJs, mas tenho conhecimentos em HTML, CSS, JavaScript, GIT e GitHub, além de UI design.</h4>
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
