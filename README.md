@@ -1,3 +1,5 @@
+<img src="james_web_main.png" src="james web">
+
 <h2> 👋 Olá, meu nome é Alex Candido! </h2> 
 <h4> Entusiasta de tecnologia e desenvolvedor Front-End, adoro design, construir e codificar. Atualmente, acadêmico em Engenharia de Telecomunicações, formação de Técnico em Redes de Computadores, já atuei nas áreas de Suporte/Manutenção de computadores e em Projetos de Telecomunicações. <h4></br>
 
