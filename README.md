@@ -1,7 +1,7 @@
 <img src="james_web_main.png" src="james web">
 
 # 👋 Olá, meu nome é Alex Candido! 
-### Entusiasta de tecnologia e desenvolvedor Front-End, adoro design, construir e codificar. Atualmente, acadêmico em Engenharia de Telecomunicações, formação de Técnico em Redes de Computadores, já atuei nas áreas de Suporte/Manutenção de computadores e em Projetos de Telecomunicações.
+<h3> Entusiasta de tecnologia e desenvolvedor Front-End, adoro design, construir e codificar. Atualmente, acadêmico em Engenharia de Telecomunicações, formação de Técnico em Redes de Computadores, já atuei nas áreas de Suporte/Manutenção de computadores e em Projetos de Telecomunicações.</h3>
 
 <div>
   <a href="https://github.com/alex-candido">
@@ -10,7 +10,7 @@
 </div>
 
 # 🚀 Tecnologias gerais e aprendizados
-### No momento, venho focado meus estudos principalmente em ReactJs, mas tenho conhecimentos em HTML, CSS, JavaScript, GIT e GitHub, além de UI design.
+<h3> No momento, venho focado meus estudos principalmente em ReactJs, mas tenho conhecimentos em HTML, CSS, JavaScript, GIT e GitHub, além de UI design.</h3>
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
