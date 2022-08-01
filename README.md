@@ -10,7 +10,7 @@
 </div>
 
 # 🚀 Tecnologias gerais e aprendizados
-<h3> No momento, venho focado meus estudos principalmente em ReactJs, mas tenho conhecimentos em HTML, CSS, JavaScript, GIT e GitHub, além de UI design.</h3>
+<h3> No momento, venho focado meus estudos principalmente em ReactJs e NodeJs, além disso, tenho conhecimentos em HTML, CSS, JavaScript, GIT/GitHub e UI design.</h3>
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
