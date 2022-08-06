@@ -1,4 +1,4 @@
-<img align="right" height="480px" src=".github/workflows/alex-cndd.png"/></br></br>
+<img align="right" height="480px" src=".github/workflows/alex-cndd.png"/>
 
 ## 👋 Hi everyone ! 
 ## 🚀 About Me
