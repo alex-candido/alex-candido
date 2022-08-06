@@ -13,7 +13,7 @@
   <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Nodejs" height="40" width="50" src="https://icongr.am/devicon/nodejs-original.svg?size=148&color=currentColor">
-<div/></br>
+<div/>
 
 ## ⚙️ Github Analysis
 <div style="display: flex">
