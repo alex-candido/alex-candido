@@ -2,7 +2,7 @@
 
 ## 👋 Hi everyone ! 
 ## 🚀 About Me
-<p> Acadêmico em Engenharia de Telecomunicações, desenvolvedor Front-End, adoro design, construir e codificar. Formação de Técnico em Redes de Computadores, já atuei nas áreas de Suporte/Manutenção de computadores e em Projetos de Telecomunicações, estou sempre estudando e aprendendo novas tecnologias.</p>
+<p> Acadêmico em Engenharia de Telecomunicações, desenvolvedor Front-End, adoro design, construir e codificar. Estou sempre estudando e aprendendo novas tecnologias.</p>
 
 ## 🛠 Skills
 <p>Possuo conhecimento nas seguintes ferramentas e tecnologias:</p>
