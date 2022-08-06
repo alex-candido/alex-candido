@@ -4,8 +4,11 @@
 <p> Entusiasta de tecnologia e desenvolvedor Front-End, adoro design, construir e codificar. Atualmente, acadêmico em Engenharia de Telecomunicações, formação de Técnico em Redes de Computadores, já atuei nas áreas de Suporte/Manutenção de computadores e em Projetos de Telecomunicações.</p>
 
 
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=alex-candido&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-candido&layout=compact&langs_count=16&theme=vision-friendly-dark"/>
+<div>
+  <a href="https://github.com/alex-candido">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alex-candido&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-candido&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 
 
 # 🚀 Tecnologias gerais e aprendizados
