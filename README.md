@@ -5,7 +5,7 @@
 <p> Acadêmico em Engenharia de Telecomunicações, desenvolvedor Front-End, adoro design, construir e codificar. Formação de Técnico em Redes de Computadores, já atuei nas áreas de Suporte/Manutenção de computadores e em Projetos de Telecomunicações, estou sempre estudando e aprendendo novas tecnologias.</p>
 
 ## 🛠 Skills
-<p> No momento, venho focado meus estudos principalmente em ReactJs e NodeJs, além disso, tenho conhecimentos em HTML, CSS, JavaScript, GIT/GitHub e em Figma/UI design.</p>
+<p> No momento, tenho focado meus estudos principalmente em ReactJs e NodeJs, além disso, tenho conhecimentos em HTML, CSS, JavaScript, GIT/GitHub e em Figma/UI design.</p>
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
