@@ -1,13 +1,12 @@
-<img align="right" height="480px" src=".github/workflows/profile-alex-candido.png"/>
+<img align="right" height="610px" src=".github/workflows/alex-cndd.png"/>
 
 # 👋 Olá, meu nome é Alex Candido! 
 <p> Entusiasta de tecnologia e desenvolvedor Front-End, adoro design, construir e codificar. Atualmente, acadêmico em Engenharia de Telecomunicações, formação de Técnico em Redes de Computadores, já atuei nas áreas de Suporte/Manutenção de computadores e em Projetos de Telecomunicações.</p>
 
-<div>
-  <a href="https://github.com/alex-candido">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alex-candido&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-candido&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=alex-candido&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-candido&layout=compact&langs_count=16&theme=vision-friendly-dark"/>
+
 
 # 🚀 Tecnologias gerais e aprendizados
 <p> No momento, venho focado meus estudos principalmente em ReactJs e NodeJs, além disso, tenho conhecimentos em HTML, CSS, JavaScript, GIT/GitHub e em Figma/UI design.</p>
