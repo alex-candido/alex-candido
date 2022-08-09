@@ -1,5 +1,3 @@
-<img align="right" height="480px" src=".github/workflows/alex-cndd.png"/>
-
 ## 👋 Hi everyone ! 
 ## 🚀 About Me
 <p> Acadêmico em Engenharia de Telecomunicações, desenvolvedor Front-End, adoro design, construir e codificar. Estou sempre estudando e aprendendo novas tecnologias.</p>
