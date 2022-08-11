@@ -2,13 +2,7 @@
 ## 🚀 About Me
 <p> Acadêmico em Engenharia de Telecomunicações, desenvolvedor Front-End, adoro design, construir e codificar. Estou sempre estudando e aprendendo novas tecnologias.</p>
 
-## 🛠 Skills
-<p>Possuo conhecimento nas seguintes ferramentas e tecnologias:</p>
-
-- Código: HTML5, CSS3, JavaScript;
-- Bibliotecas e Frameworks: ReactJS, ExpressJS;
-- Design e Prototipação: Figma;
-- Outros: Git/GitHub, VSCode;
+## 🛠 Tech stack
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
