@@ -1,6 +1,6 @@
 ## 👋 Hi everyone ! 
 ## 🚀 About Me
-<p> Acadêmico em Engenharia de Telecomunicações, desenvolvedor Front-End, adoro design, construir e codificar. Estou sempre estudando e aprendendo novas tecnologias. Atualmente, desbravando stacks como ReactJS, React Native, Nodejs e Typescrip.</p>
+<p> Acadêmico em Engenharia de Telecomunicações pelo IFCE, desenvolvedor Front-End, adoro design, construir e codificar. Estou sempre estudando e aprendendo novas tecnologias. Atualmente, desbravando stacks como ReactJS, React Native, Nodejs e Typescrip.</p>
 
 ## 🛠 Tech stack
 
