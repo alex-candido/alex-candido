@@ -1,6 +1,5 @@
-## 👋 Hi everyone ! 
-## 🚀 About Me
-<p> Acadêmico em Engenharia de Telecomunicações pelo IFCE, desenvolvedor Front-End, adoro design, construir e codificar. Estou sempre estudando e aprendendo novas tecnologias. Atualmente, desbravando stacks como ReactJS, React Native, Nodejs e Typescrip.</p>
+## 👋 Hi! I'm Alex! 
+<p> Soue acadêmico em Engenharia de Telecomunicações pelo IFCE, desenvolvedor Front-End, adoro design, construir e codificar. Estou sempre estudando e aprendendo novas tecnologias. Atualmente, desbravando stacks como Typescript, ReactJS, React Native, e Nodejs</p>
 
 ## 🛠 Tech stack
 
