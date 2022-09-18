@@ -1,16 +1,32 @@
 ## 👋 Hi, I'm Alex! 
-<p> Sou acadêmico em Engenharia de Telecomunicações pelo IFCE, desenvolvedor Front-End, adoro design, construir e codificar. Estou sempre estudando e aprendendo novas tecnologias. Atualmente, desbravando stacks como Typescript, ReactJS, React Native, e Nodejs</p>
+
+- 🛰️ Academic in Telecommunications Engineering
+- 🧑🏻‍💻 I'm a TypeScript Full-Stack Developer (ReactJS, React Native and Node.js).
+- 📫  How to reach me: **alex.candido.tec@gmail.com** or [LinkedIn](https://www.linkedin.com/in/alexcndd/).
+- ⚡️ All of my projects are available here on my GitHub.
 
 ## 🛠 Tech stack
 
 <div style="display: inline_block"><br/>
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Typescript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Nodejs" height="40" width="50" src="https://icongr.am/devicon/nodejs-original.svg?size=148&color=currentColor">
-
+  <code>
+  <img height="40" title="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">   </code>
+  <code>
+  <img height="40" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">   </code>
+  <code>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  </code>
+  <code>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  </code>
+  <code>
+  <img height="40" title="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+  </code>
+  <code>
+  <img height="40" title="Node" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+  </code>
+  <code>
+  <img height="40" title="React Native" src="https://raw.githubusercontent.com/tavareshenrique/tavareshenrique/master/images/rn-icon.png">
+  </code>
 <div/>
 
 ## ⚙️ Github Analysis
