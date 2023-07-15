@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Alex! 
 
 - 🛰️ Academic in Telecommunications Engineering
-- 🧑🏻‍💻 I'm a TypeScript developer (ReactJS/NextJS | VueJS/NuxtJS | NodeJS ) in addition to Python and Java
+- 🧑🏻‍💻 I'm a Front-End Developer (ReactJS/NextJS | VueJS/NuxtJS | NodeJS ) in addition to Python and Java
 - 📫 How to reach me: **alex.candido.tec@gmail.com** or [LinkedIn](https://www.linkedin.com/in/alexcndd/).
 - ⚡️ All of my projects are available here on my GitHub.
 
