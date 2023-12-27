@@ -17,8 +17,8 @@
 <code><img height="50" title="tailwind" src="https://skillicons.dev/icons?i=tailwind" /></code>
 <code><img height="50" title="react" src="https://skillicons.dev/icons?i=react" /></code>
 <code><img height="50" title="react" src="https://skillicons.dev/icons?i=nextjs" /></code>
-<br><br>
 <code><img height="50" title="react" src="https://skillicons.dev/icons?i=vue" /></code>
+<br><br>
 <code><img height="50" title="react" src="https://skillicons.dev/icons?i=nuxtjs" /></code>
 <code><img height="50" title="react" src="https://skillicons.dev/icons?i=nodejs" /></code>
 <code><img height="50" title="react" src="https://skillicons.dev/icons?i=nestjs" /></code>
@@ -26,7 +26,6 @@
 <code><img height="50" title="react" src="https://skillicons.dev/icons?i=prisma" /></code>
 <code><img height="50" title="react" src="https://skillicons.dev/icons?i=py" /></code>
 <code><img height="50" title="react" src="https://skillicons.dev/icons?i=java" /></code>
-<br><br>
 <code><img height="50" title="react" src="https://skillicons.dev/icons?i=docker" /></code>
 <code><img height="50" title="react" src="https://skillicons.dev/icons?i=figma" /></code>
 
