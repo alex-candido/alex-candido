@@ -27,9 +27,7 @@
 <code><img height="50" title="react" src="https://skillicons.dev/icons?i=docker" /></code>
 <code><img height="50" title="react" src="https://skillicons.dev/icons?i=figma" /></code>
 
-## 
 
-[![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alex-candido&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
 
 
 
