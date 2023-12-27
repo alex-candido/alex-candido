@@ -5,9 +5,11 @@
 - 📫 How to reach me: **alex.candido.tec@gmail.com** or [LinkedIn](https://www.linkedin.com/in/alexcndd/).
 - ⚡️ All of my projects are available here on my GitHub.
 
+## 
+
 [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alex-candido&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
 
-## 🛠 Tech stack
+## 🚀 Tech Stacks
 
 <code><img height="50" title="tailwind" src="https://skillicons.dev/icons?i=js" /></code>
 <code><img height="50" title="tailwind" src="https://skillicons.dev/icons?i=ts" /></code>
