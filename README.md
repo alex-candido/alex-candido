@@ -18,7 +18,7 @@
 <code><img height="50" title="react" src="https://skillicons.dev/icons?i=vue" /></code>
 <br><br>
 <code><img height="50" title="react" src="https://skillicons.dev/icons?i=nuxtjs" /></code>
-<code><img height="50" title="react" src="https://skillicons.dev/icons?i=nodejs" /></code>
+<code><img height="50" title="react" src="https://skillicons.dev/icons?i=express" /></code>
 <code><img height="50" title="react" src="https://skillicons.dev/icons?i=nestjs" /></code>
 <code><img height="50" title="react" src="https://skillicons.dev/icons?i=jest" /></code>
 <code><img height="50" title="react" src="https://skillicons.dev/icons?i=prisma" /></code>
