@@ -30,7 +30,7 @@
 <code><img height="50" title="redis" src="https://skillicons.dev/icons?i=redis" /></code>
 <code><img height="50" title="mongo" src="https://skillicons.dev/icons?i=mongo" /></code>
 <code><img height="50" title="postgres" src="https://skillicons.dev/icons?i=postgres" /></code>
-<code><img height="50" title="nx" style="border-raius=10" src="https://yt3.googleusercontent.com/syGL8DgxqNTPxSlJAhGD72bNf7J-_JYRhv4WqI_OpSkr-A-ov1JAKWzdszXqeOEJAdxBTk7Y0Q=s176-c-k-c0x00ffffff-no-rj" /></code>
+<code><img height="50" title="nx" src="https://github.com/alex-candido/alex-candido/blob/main/.github/workflows/nx.svg" /></code>
 <code><img height="50" title="docker" src="https://skillicons.dev/icons?i=docker" /></code>
 
 ## 🚀 On the Tech Stacks journey
