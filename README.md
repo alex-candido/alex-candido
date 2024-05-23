@@ -1,7 +1,7 @@
 ## 👋 Hey guys, I'm Alex Cândido! 
 
 - 🛰️ Academic in Telecommunications Engineering, IFCE - Fortaleza
-- 🧑🏻‍💻 I'm a software developer (ReactJS/NextJS | VueJS/NuxtJS | NestJs/NodeJS) in addition, exploring Django/Python and Spring Boot/Java stacks
+- 🧑🏻‍💻 I'm a software developer (ReactJS/NextJS | VueJS/NuxtJS | NestJs/NodeJS) in addition, exploring Ruby/Rails, Django/Python and Spring Boot/Java stacks
 - 📫 How to reach me: **alex.candido.tec@gmail.com** or [LinkedIn](https://www.linkedin.com/in/alexcndd/).
 - ⚡️ All of my projects are available here on my GitHub.
 
