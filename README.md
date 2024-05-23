@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Alex! 
+## 👋 Hey guys, I'm Alex Cândido! 
 
 - 🛰️ Academic in Telecommunications Engineering
 - 🧑🏻‍💻 🧑🏻‍💻 I'm a software developer (ReactJS/NextJS | VueJS/NuxtJS | NestJs/NodeJS) in addition, exploring Django/Python and Spring Boot/Java stacks
