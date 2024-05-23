@@ -43,7 +43,8 @@
 <a href="https://www.djangoproject.com/" target="blank"><code><img height="50" title="dj" src="https://skillicons.dev/icons?i=django" /></code></a>
 <a href="https://www.java.com/pt-BR/" target="blank"><code><img height="50" title="java" src="https://skillicons.dev/icons?i=java" /></code></a>
 <a href="https://spring.io/" target="blank"><code><img height="50" title="spring" src="https://skillicons.dev/icons?i=spring" /></code></a>
-
+<br><br>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=alex-candido" alt="alex-candido" /> </p>
 
 
 
