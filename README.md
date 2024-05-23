@@ -8,7 +8,7 @@
 ## 👨‍💻 Tech Stacks
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><code><img height="50" title="js" src="https://skillicons.dev/icons?i=js" /></code></a>
-<a href="https://www.typescriptlang.org/t" target="blank"><code><img height="50" title="ts" src="https://skillicons.dev/icons?i=ts" /></code></a>
+<a href="https://www.typescriptlang.org/" target="blank"><code><img height="50" title="ts" src="https://skillicons.dev/icons?i=ts" /></code></a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="blank"><code><img height="50" title="html" src="https://skillicons.dev/icons?i=html" /></code></a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="blank"><code><img height="50" title="css" src="https://skillicons.dev/icons?i=css" /></code></a>
 <a href="https://sass-lang.com/" target="blank"><code><img height="50" title="sass" src="https://skillicons.dev/icons?i=sass" /></code></a>
