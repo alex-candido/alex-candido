@@ -15,7 +15,7 @@
 <a href="https://tailwindcss.com/" target="blank"><code><img height="50" title="tailwind" src="https://skillicons.dev/icons?i=tailwind" /></code></a>
 <a href="https://pt-br.legacy.reactjs.org/" target="blank"><code><img height="50" title="react" src="https://skillicons.dev/icons?i=react" /></code></a>
 <a href="https://reactnative.dev/" target="blank"><code><img height="50" title="react-native" src="https://github.com/alex-candido/alex-candido/blob/main/.github/workflows/react%20(1).svg" /></code></a>
-<a href="https://expo.dev/" target="blank"><code><img height="50" title="react-native" src="https://github.com/alex-candido/alex-candido/blob/main/.github/workflows/image%202.svg" /></code></a>
+<a href="https://expo.dev/" target="blank"><code><img height="50" title="expo" src="https://github.com/alex-candido/alex-candido/blob/main/.github/workflows/image%202.svg" /></code></a>
 <a href="https://www.electronjs.org/" target="blank"><code><img height="50" title="electron" src="https://skillicons.dev/icons?i=electron" /></code></a>
 <a href="https://redux.js.org/" target="blank"><code><img height="50" title="redux" src="https://skillicons.dev/icons?i=redux" /></code></a>
 <a href="https://nextjs.org/" target="blank"><code><img height="50" title="nextjs" src="https://skillicons.dev/icons?i=nextjs" /></code></a>
