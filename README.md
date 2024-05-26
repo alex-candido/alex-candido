@@ -25,14 +25,15 @@
 <a href="https://pinia.vuejs.org/" target="blank"><code><img height="50" title="pinia" src="https://skillicons.dev/icons?i=pinia" /></code></a>
 <a href="https://nodejs.org/en" target="blank"><code><img height="50" title="nodejs" src="https://skillicons.dev/icons?i=nodejs" /></code></a>
 <a href="https://expressjs.com/pt-br/" target="blank"><code><img height="50" title="express" src="https://skillicons.dev/icons?i=express" /></code></a>
+<a href="https://fastify.dev/" target="blank"><code><img height="50" title="fastify" src="https://github.com/alex-candido/alex-candido/blob/main/.github/workflows/image%203.svg" /></code></a>
 <a href="https://nestjs.com/" target="blank"><code><img height="50" title="nestjs" src="https://skillicons.dev/icons?i=nestjs" /></code></a>
 <a href="https://jestjs.io/pt-BR/" target="blank"><code><img height="50" title="jest" src="https://skillicons.dev/icons?i=jest" /></code></a>
 <a href="https://www.prisma.io/" target="blank"><code><img height="50" title="prisma" src="https://skillicons.dev/icons?i=prisma" /></code></a>
 <a href="https://www.apollographql.com/" target="blank"><code><img height="50" title="apollo" src="https://skillicons.dev/icons?i=apollo" /></code></a>
 <a href="https://graphql.org/" target="blank"><code><img height="50" title="graphql" src="https://skillicons.dev/icons?i=graphql" /></code></a>
 <a href="https://sequelize.org/" target="blank"><code><img height="50" title="sequelize" src="https://skillicons.dev/icons?i=sequelize" /></code></a>
-<a href="https://redis.io/" target="blank"><code><img height="50" title="redis" src="https://skillicons.dev/icons?i=redis" /></code></a>
 <br><br>
+<a href="https://redis.io/" target="blank"><code><img height="50" title="redis" src="https://skillicons.dev/icons?i=redis" /></code></a>
 <a href="https://www.mongodb.com/pt-br" target="blank"><code><img height="50" title="mongo" src="https://skillicons.dev/icons?i=mongo" /></code></a>
 <a href="https://www.postgresql.org/" target="blank"><code><img height="50" title="postgres" src="https://skillicons.dev/icons?i=postgres" /></code></a>
 <a href="https://nx.dev/" target="blank"><code><img height="50" title="nx" src="https://github.com/alex-candido/alex-candido/blob/main/.github/workflows/nx.svg" /></code></a>
