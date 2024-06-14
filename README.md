@@ -40,6 +40,7 @@
 <a href="https://nx.dev/" target="blank"><code><img height="50" title="nx" src="https://github.com/alex-candido/alex-candido/blob/main/.github/workflows/nx.svg" /></code></a>
 <a href="https://www.docker.com/" target="blank"><code><img height="50" title="docker" src="https://skillicons.dev/icons?i=docker" /></code></a>
 <a href="https://swc.rs/" target="blank"><code><img height="50" title="swc" src="https://github.com/alex-candido/alex-candido/blob/main/.github/workflows/swc.png" /></code></a>
+<a href="https://turbo.build/" target="blank"><code><img height="50" title="turbo" src="https://github.com/alex-candido/alex-candido/blob/main/.github/workflows/turbo.png" /></code></a>
 
 ## 🚀 On the Tech Stacks journey
 
