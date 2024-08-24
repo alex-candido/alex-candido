@@ -41,15 +41,15 @@
 
 ## 🚀 Back-end tech stacks
 
-<a href="https://nestjs.com/" target="blank"><code><img height="50" title="nestjs" src="https://skillicons.dev/icons?i=nestjs" /></code></a>
-<a href="https://expressjs.com/pt-br/" target="blank"><code><img height="50" title="express" src="https://skillicons.dev/icons?i=express" /></code></a>
-<a href="https://fastify.dev/" target="blank"><code><img height="50" title="fastify" src="https://github.com/alex-candido/alex-candido/blob/main/.github/workflows/image%203.svg" /></code></a>
 <a href="https://www.ruby-lang.org/pt/" target="blank"><code><img height="50" title="ruby" src="https://skillicons.dev/icons?i=ruby" /></code></a>
 <a href="https://rubyonrails.org/" target="blank"><code><img height="50" title="rails" src="https://skillicons.dev/icons?i=rails" /></code></a>
 <a href="https://www.python.org/" target="blank"><code><img height="50" title="py" src="https://skillicons.dev/icons?i=py" /></code></a>
 <a href="https://flask.palletsprojects.com/" target="blank"><code><img height="50" title="dj" src="https://skillicons.dev/icons?i=flask" /></code></a>
 <a href="https://www.djangoproject.com/" target="blank"><code><img height="50" title="dj" src="https://skillicons.dev/icons?i=django" /></code></a>
 <a href="https://fastapi.tiangolo.com/" target="blank"><code><img height="50" title="dj" src="https://skillicons.dev/icons?i=fastapi" /></code></a>
+<a href="https://nestjs.com/" target="blank"><code><img height="50" title="nestjs" src="https://skillicons.dev/icons?i=nestjs" /></code></a>
+<a href="https://expressjs.com/pt-br/" target="blank"><code><img height="50" title="express" src="https://skillicons.dev/icons?i=express" /></code></a>
+<a href="https://fastify.dev/" target="blank"><code><img height="50" title="fastify" src="https://github.com/alex-candido/alex-candido/blob/main/.github/workflows/image%203.svg" /></code></a>
 
 ## 👨‍💻 Additionally, on the tech stacks journey
 
