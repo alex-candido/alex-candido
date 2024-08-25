@@ -24,7 +24,7 @@
 <a href="https://vuejs.org/" target="_blank"><code><img height="50" title="vue" src="https://skillicons.dev/icons?i=vue" /></code></a>
 <a href="https://nuxt.com/" target="_blank"><code><img height="50" title="nuxtjs" src="https://skillicons.dev/icons?i=nuxtjs" /></code></a>
 <a href="https://pinia.vuejs.org/" target="_blank"><code><img height="50" title="pinia" src="https://skillicons.dev/icons?i=pinia" /></code></a>
-<a href="https://astro.build/" target="_blank"><code><img height="50" title="pinia" src="https://skillicons.dev/icons?i=astro" /></code></a>
+<a href="https://astro.build/" target="_blank"><code><img height="50" title="astro" src="https://skillicons.dev/icons?i=astro" /></code></a>
 <a href="https://jestjs.io/pt-BR/" target="_blank"><code><img height="50" title="jest" src="https://skillicons.dev/icons?i=jest" /></code></a>
 <a href="https://www.prisma.io/" target="_blank"><code><img height="50" title="prisma" src="https://skillicons.dev/icons?i=prisma" /></code></a>
 <a href="https://www.apollographql.com/" target="_blank"><code><img height="50" title="apollo" src="https://skillicons.dev/icons?i=apollo" /></code></a>
@@ -44,9 +44,9 @@
 <a href="https://www.ruby-lang.org/pt/" target="_blank"><code><img height="50" title="ruby" src="https://skillicons.dev/icons?i=ruby" /></code></a>
 <a href="https://rubyonrails.org/" target="_blank"><code><img height="50" title="rails" src="https://skillicons.dev/icons?i=rails" /></code></a>
 <a href="https://www.python.org/" target="_blank"><code><img height="50" title="py" src="https://skillicons.dev/icons?i=py" /></code></a>
-<a href="https://flask.palletsprojects.com/" target="_blank"><code><img height="50" title="dj" src="https://skillicons.dev/icons?i=flask" /></code></a>
+<a href="https://flask.palletsprojects.com/" target="_blank"><code><img height="50" title="flask" src="https://skillicons.dev/icons?i=flask" /></code></a>
 <a href="https://www.djangoproject.com/" target="_blank"><code><img height="50" title="dj" src="https://skillicons.dev/icons?i=django" /></code></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank"><code><img height="50" title="dj" src="https://skillicons.dev/icons?i=fastapi" /></code></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank"><code><img height="50" title="fastapi" src="https://skillicons.dev/icons?i=fastapi" /></code></a>
 <a href="https://nestjs.com/" target="_blank"><code><img height="50" title="nestjs" src="https://skillicons.dev/icons?i=nestjs" /></code></a>
 <a href="https://expressjs.com/pt-br/" target="_blank"><code><img height="50" title="express" src="https://skillicons.dev/icons?i=express" /></code></a>
 <a href="https://fastify.dev/" target="_blank"><code><img height="50" title="fastify" src="https://github.com/alex-candido/alex-candido/blob/main/.github/workflows/image%203.svg" /></code></a>
