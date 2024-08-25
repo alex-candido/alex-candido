@@ -33,10 +33,7 @@
 <br><br>
 <a href="https://swc.rs/" target="_blank"><code><img height="45" title="swc" src="https://github.com/alex-candido/alex-candido/blob/main/.github/workflows/swc.png" /></code></a>
 <a href="https://turbo.build/" target="_blank"><code><img height="45" title="turbo" src="https://github.com/alex-candido/alex-candido/blob/main/.github/workflows/turbo.png" /></code></a>
-<a href="https://bun.sh/" target="_blank"><code><img height="45" title="bun" src="https://skillicons.dev/icons?i=bun" /></code></a>
 <a href="https://www.figma.com/" target="_blank"><code><img height="45" title="bun" src="https://skillicons.dev/icons?i=figma" /></code></a>
-<a href="https://git-scm.com/" target="_blank"><code><img height="45" title="git" src="https://skillicons.dev/icons?i=git" /></code></a>
-<a href="https://github.com/" target="_blank"><code><img height="45" title="github" src="https://skillicons.dev/icons?i=github" /></code></a>
 
 ## 🚀 Back-end tech stacks
 
@@ -62,6 +59,10 @@
 <a href="https://www.mongodb.com/pt-br" target="_blank"><code><img height="45" title="mongo" src="https://skillicons.dev/icons?i=mongo" /></code></a>
 <a href="https://www.docker.com/" target="_blank"><code><img height="45" title="docker" src="https://skillicons.dev/icons?i=docker" /></code></a>
 <a href="https://ubuntu.com/" target="_blank"><code><img height="45" title="linux" src="https://skillicons.dev/icons?i=linux" /></code></a>
+<a href="https://git-scm.com/" target="_blank"><code><img height="45" title="git" src="https://skillicons.dev/icons?i=git" /></code></a>
+<br><br>
+<a href="https://github.com/" target="_blank"><code><img height="45" title="github" src="https://skillicons.dev/icons?i=github" /></code></a>
+<a href="https://bun.sh/" target="_blank"><code><img height="45" title="bun" src="https://skillicons.dev/icons?i=bun" /></code></a>
 
 ## 👨‍💻 Additionally, on the tech stacks journey
 
