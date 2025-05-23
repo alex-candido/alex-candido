@@ -8,8 +8,8 @@
 ---
 <table>
   <tr>
-    <th><a href="source/plugins/isocalendar/README.md">📅 Isometric commit calendar</a></th>
-    <th><a href="source/plugins/languages/README.md">🈷️ Languages activity</a></th>
+    <th>📅 Isometric commit calendar</th>
+    <th>🈷️ Languages activity</th>
   </tr>
   <tr>
     <td align="center">
