@@ -2,25 +2,23 @@ name: Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *" # todo dia à meia-noite UTC
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Executa todo dia à meia-noite UTC
+  workflow_dispatch:      # Permite execução manual
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write  # Permite fazer commit no repositório
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}  # Use seu secret aqui
           user: alex-candido
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Fortaleza
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-
           output_action: commit
-          output_path: github-metrics.svg
-          output_branch: main
+          filename: github-metrics.svg
