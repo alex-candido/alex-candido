@@ -43,7 +43,8 @@ jobs:
           base: ""
           config_timezone: America/Fortaleza
           plugin_languages: yes
-          plugin_languages_recent: yes
+          plugin_languages_recent_load: yes         # corrigido aqui
+          plugin_languages_recent_days: 30          # opcional, define o período recente
           filename: metrics.plugin.languages.recent.svg
           output_action: commit
 
