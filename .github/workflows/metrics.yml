@@ -43,8 +43,8 @@ jobs:
           base: ""
           config_timezone: America/Fortaleza
           plugin_languages: yes
-          plugin_languages_recent_load: yes         # corrigido aqui
-          plugin_languages_recent_days: 30          # opcional, define o período recente
+          plugin_languages_recent_load: yes       
+          plugin_languages_recent_days: 30       
           filename: metrics.plugin.languages.recent.svg
           output_action: commit
 
@@ -70,3 +70,26 @@ jobs:
           plugin_languages_details: yes
           filename: metrics.plugin.languages.details.svg
           output_action: commit
+          
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: alex-candido
+          template: classic
+          config_timezone: America/Fortaleza
+          plugin_topics: yes               
+          filename: metrics.plugin.topics.svg
+          output_action: commit
+        
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: alex-candido
+          template: classic
+          config_timezone: America/Fortaleza
+          plugin_stars: yes                 
+          filename: metrics.plugin.stars.svg
+          output_action: commit
+
+
+
