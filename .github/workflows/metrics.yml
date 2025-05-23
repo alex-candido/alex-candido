@@ -1,0 +1,36 @@
+name: Metrics
+on:
+  schedule: [{ cron: "0 0 * * *" }] # Executa uma vez por dia
+  push: { branches: ["main"] }
+  workflow_dispatch:
+
+jobs:
+  metrics-full-year:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: alex-candido
+          template: classic
+          filename: github-metrics-fullyear.svg
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/Fortaleza
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+  metrics-half-year:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: alex-candido
+          template: classic
+          filename: github-metrics-halfyear.svg
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/Fortaleza
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
