@@ -2,7 +2,7 @@ name: Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Executa todo dia à meia-noite UTC
+    - cron: "0 0 * * *"  # Executa diariamente à meia-noite UTC
   workflow_dispatch:      # Permite execução manual
 
 jobs:
@@ -13,12 +13,59 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}  # Use seu secret aqui
+          token: ${{ secrets.METRICS_TOKEN }}
           user: alex-candido
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Fortaleza
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          filename: metrics.plugin.isocalendar.fullyear.svg
           output_action: commit
-          filename: github-metrics.svg
+
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: alex-candido
+          template: classic
+          base: ""
+          config_timezone: America/Fortaleza
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          filename: metrics.plugin.languages.indepth.svg
+          output_action: commit
+
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: alex-candido
+          template: classic
+          base: ""
+          config_timezone: America/Fortaleza
+          plugin_languages: yes
+          plugin_languages_recent: yes
+          filename: metrics.plugin.languages.recent.svg
+          output_action: commit
+
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: alex-candido
+          template: classic
+          base: ""
+          config_timezone: America/Fortaleza
+          plugin_languages: yes
+          filename: metrics.plugin.languages.svg
+          output_action: commit
+
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: alex-candido
+          template: classic
+          base: ""
+          config_timezone: America/Fortaleza
+          plugin_languages: yes
+          plugin_languages_details: yes
+          filename: metrics.plugin.languages.details.svg
+          output_action: commit
