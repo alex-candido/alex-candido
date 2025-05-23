@@ -1,99 +1,26 @@
 name: Metrics
+
 on:
-  schedule: [{cron: "0 0 * * *"}]  # Runs daily at midnight UTC
-  workflow_dispatch: # Allows manual triggering from the Actions tab
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
-  github-metrics: # Changed job name for clarity
+  github-metrics:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Crucial: Grants permission to commit files to the repository
+      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }} # Fallback to GITHUB_TOKEN if METRICS_TOKEN isn't set
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           user: alex-candido
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: America/Fortaleza # Sets your timezone for accurate activity tracking
-
-          # --- Calendar Plugin ---
+          config_timezone: America/Fortaleza
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          output_branch: examples # This is key: all generated metrics will go to the 'examples' branch
-          # ---
-          # Generate the full-year calendar SVG
-          filename: metrics.plugin.isocalendar.fullyear.svg
 
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
-          user: alex-candido
-          template: classic
-          config_timezone: America/Fortaleza
-
-          # --- Half-year Calendar Plugin (separate step) ---
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-          output_branch: examples
-          filename: metrics.plugin.isocalendar.svg # Name matches your README link
-
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
-          user: alex-candido
-          template: classic
-          config_timezone: America/Fortaleza
-
-          # --- Languages Plugin - In-depth (separate step) ---
-          plugin_languages: yes
-          plugin_languages_ignored: html
-          plugin_languages_indepth: yes # Enable in-depth analysis
-          output_branch: examples
-          filename: metrics.plugin.languages.indepth.svg # Name matches your README link
-
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
-          user: alex-candido
-          template: classic
-          config_timezone: America/Fortaleza
-
-          # --- Languages Plugin - Recent (separate step) ---
-          plugin_languages: yes
-          plugin_languages_ignored: html
-          plugin_languages_recent_days: 14 # Example: analyze last 14 days
-          output_branch: examples
-          filename: metrics.plugin.languages.recent.svg # Name matches your README link
-
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
-          user: alex-candido
-          template: classic
-          config_timezone: America/Fortaleza
-
-          # --- Languages Plugin - Default (separate step) ---
-          plugin_languages: yes
-          plugin_languages_ignored: html
-          output_branch: examples
-          filename: metrics.plugin.languages.svg # Name matches your README link
-
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
-          user: alex-candido
-          template: classic
-          config_timezone: America/Fortaleza
-
-          # --- Languages Plugin - Default with Details (separate step) ---
-          plugin_languages: yes
-          plugin_languages_details: yes # Enable details
-          plugin_languages_ignored: html
-          output_branch: examples
-          filename: metrics.plugin.languages.details.svg # Name matches your README link
-
-      # You can add more steps for other plugins (like lines, followup) here
-      # if you want them as separate SVG files for your README.
-      # If you only want them in the main github-metrics.svg, ensure they are
-      # part of the first metrics step where github-metrics.svg is generated.
+          output_action: commit           # Muito importante para salvar o SVG
+          output_path: metrics.plugin.isocalendar.fullyear.svg
+          output_branch: main             # Use sua branch principal, por exemplo "main"
