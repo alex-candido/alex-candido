@@ -1,4 +1,10 @@
-## 👋 Hey guys, I'm Alex Cândido!
+<div align="center">
+  <img src="docs/banner.png" alt="Banner Alex Cândido" width="100%">
+</div>
+
+---
+
+### 👋 Hey guys, I'm Alex Cândido!
 
 - 🛰️ Telecommunications Engineering, IFCE - Fortaleza  
 - 🧑🏻‍💻 I'm a Backend developer (Ruby on Rails | Python/Django/Flask | Typescript/Nestjs/Expressjs/Fastify | Reactjs/Nextjs | Vuejs/Nuxtjs)  
